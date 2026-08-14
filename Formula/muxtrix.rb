@@ -1,9 +1,9 @@
 class Muxtrix < Formula
   desc "Native GPU terminal workspace for supervising coding agents"
   homepage "https://github.com/Phoenixmatrix/muxtrix"
-  url "https://github.com/Phoenixmatrix/muxtrix/releases/download/v0.1.51/muxtrix-0.1.51-macos-arm64.tar.gz"
-  version "0.1.51"
-  sha256 "b9075db596c841a3d34ea1c96745d835ce9a39e83c928c9f6cabf60d65cebfa2"
+  url "https://github.com/Phoenixmatrix/muxtrix/releases/download/v0.1.52/muxtrix-0.1.52-macos-arm64.tar.gz"
+  version "0.1.52"
+  sha256 "0b7ec295bbea967ef50ab51b26ab6640a1810fb98adb3a507912fe59b14e9d86"
   license "MIT"
 
   depends_on arch: :arm64
